@@ -1,0 +1,4 @@
+productstemplate
+================
+
+Product Showcase Template
